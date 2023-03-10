@@ -19,10 +19,8 @@ we use the bayes theorem and assume all features to be independent.
 
 p(class|data)=p(data|class)*p(class)/p(data)
 
-p(data) can be ignored as it will be same for all classes, and we are interested in finding the class with the highest probability, and not the actual probabilities.
-(Since this is a classification task, not proabability modeling)
-
-p(class) will be same for each class in this case, asno. of data points belonging to each class is same.
+p(data) can be ignored 
+as it will be same for all classes, and we are interested in fiinding the class with the highest probability, and not the actual probabilities.
 
 hence we need to find
   p(data|class)
