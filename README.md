@@ -44,7 +44,7 @@ the complete procedure is as given below
 
 Finally, we print the classification accuracy, confusion matrix, classification report.
 
-We compare the performance of our oun classifier with that of the in-built classifier in sklearn.
+We compare the performance of our own classifier with that of the in-built classifier in sklearn.
 
 
 The results are as follows:
